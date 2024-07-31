@@ -38,7 +38,7 @@ To set up the project locally, follow these steps:
 
 ### Screenshot
 
-![Design Preview](/design/active-states.jpg)
+![Design Preview](/assets/design/active-states.jpg)
 
 ### Links
 
